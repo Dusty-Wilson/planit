@@ -13,4 +13,4 @@ Calendars, trip map, activities schedule, expense tracking and splitting
 - RSpec
 - Deployed on Heroku
 
-<a href="http://imgur.com/xUDYlDW"><img src="http://i.imgur.com/xUDYlDW.png" title="Hosted by imgur.com" /></a>
+
